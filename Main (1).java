@@ -61,7 +61,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // إنشاء 4 Threads
+        
         Machine[] threads = new Machine[4];
 
         for (int i = 0; i < 4; i++) {
